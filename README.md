@@ -17,4 +17,6 @@
 
 <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=jrsoares&show_icons=true" alt="jrsoares stats"/>
 
+<br><br>
+
 <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsoares&layout=compact" alt="jrsoares most languages"/>
