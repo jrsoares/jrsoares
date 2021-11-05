@@ -16,7 +16,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <p align="left">
- <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=jrsoares&show_icons=true" alt="jrsoares stats"/>
-  <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsoares&layout=compact" alt="jrsoares most languages"/>
+ <img width="450em" src="https://github-readme-stats.vercel.app/api?username=jrsoares&show_icons=true" alt="jrsoares stats"/>
 </p>
+ <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsoares&layout=compact" alt="jrsoares most languages"/>
 
