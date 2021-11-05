@@ -16,4 +16,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<img align="left" width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsoares&layout=compact" alt="jrsoares most languages"/>
+<img align="left" width="590em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsoares&layout=compact" alt="jrsoares most languages"/>
