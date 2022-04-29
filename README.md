@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jrsoares/777bfa33e67b5cb7bde3e78c652a2c6b/raw/e3ed2d5d79d5e582640264126f5358cde95bcde5/githubcard.svg"/>
-
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Júnior Soares</h1>
 🔥 I'm front end developer in Brazil.
 <br>
