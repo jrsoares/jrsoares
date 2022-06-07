@@ -1,4 +1,3 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Júnior Soares</h1>
 🔥 I'm front end developer in Brazil.
 <br>
 
