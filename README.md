@@ -1,4 +1,4 @@
-🔥 I'm front end developer in Brazil.
+🔥 I'm frontend developer in Brazil.
 <br>
 
 💻: Techs:
